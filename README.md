@@ -7,12 +7,12 @@
 folks among us. If you already tried to study data structures in 
 JavaScript/React you know what typically happens: </p>
 
-<p>Now in this repo, you can find simple real world data structure 
-examples for React</p>
-
 - 🌎 A bunch of CS theory is thrown at you.
 - 🔭 You read pages of code that manually implement e.g. a linked list.
 - 📖 All the examples are abstract using <i>foo</i> and <i>bar</i> or <i>cats</i> and <i>dogs</i>.
+
+<p>Now in this repo, you can find simple real world data structure
+examples for React</p>
 
 <details>
   <summary><b>Table of Contents</b></summary>
