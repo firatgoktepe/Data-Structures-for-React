@@ -22,6 +22,7 @@ examples for React</p>
      <p>Real-World Example: Keeping track of selected items</p>
     <h3>Map</h3>
      <p>Real-World Example: Messages with user names</p>
+     <p>Screenshot link: https://ik.imagekit.io/87wct6jq4ql/tr:w-640/https://media.graphassets.com/1u8LgATq3UyV99nSbWgr</p>
     <h3>Stack</h3>
      <p>Coming Soon...</p>
     <h3>Queue</h3>
