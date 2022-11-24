@@ -21,7 +21,7 @@ examples for React</p>
     <h3>Set</h3>
      <p>Real-World Example: Keeping track of selected items</p>
     <h3>Map</h3>
-     <p>Coming Soon...</p>
+     <p>Real-World Example: Messages with user names</p>
     <h3>Stack</h3>
      <p>Coming Soon...</p>
     <h3>Queue</h3>
