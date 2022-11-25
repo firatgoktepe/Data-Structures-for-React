@@ -28,12 +28,13 @@ examples for React</p>
 src="https://user-images.githubusercontent.com/47864126/203972864-fbb6be92-24f6-4251-ae45-846a151ee289.png" 
 />
     <h3>Stack</h3>
-     
+     <p>Real-World Example: Undo previous actions</p>
 <p>https://user-images.githubusercontent.com/47864126/203981727-ff28b357-bf2b-4939-b64f-21fab1043b07.mov</p>
     <h3>Queue</h3>
-     
+     <p>Real-World Example: Notifications</p>
 <p>https://user-images.githubusercontent.com/47864126/203981735-a3d94dcb-9b0e-42f9-8fcb-0f4dbded129c.mov</p>
     <h3>Tree</h3>
+<p>Real-World Example: Nested menus or comments</p>
      <img 
 src="https://user-images.githubusercontent.com/47864126/203981750-774a3a53-302f-4f29-a4c0-60e4bda97d93.png" 
 /> </div>
