@@ -23,7 +23,10 @@ examples for React</p>
      <p>https://user-images.githubusercontent.com/47864126/203786175-6ea6329f-99fe-4e90-b1de-e3dea5a6cc66.mov</p>
     <h3>Map</h3>
      <p>Real-World Example: Messages with user names</p>
-     <p>https://user-images.githubusercontent.com/47864126/203972864-fbb6be92-24f6-4251-ae45-846a151ee289.png</p>
+     
+<img 
+src="https://user-images.githubusercontent.com/47864126/203972864-fbb6be92-24f6-4251-ae45-846a151ee289.png" 
+/>
     <h3>Stack</h3>
      <p>Coming Soon...</p>
     <h3>Queue</h3>
